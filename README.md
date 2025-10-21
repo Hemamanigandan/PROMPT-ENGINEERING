@@ -1,4 +1,4 @@
-# Aim:	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
+<img width="993" height="693" alt="Screenshot 2025-10-21 215154" src="https://github.com/user-attachments/assets/6bb34e83-83fa-4044-86d1-36c926daca0b" /># Aim:	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 Experiment:
 Develop a comprehensive report for the following exercises:
 1.	Explain the foundational concepts of Generative AI. 
@@ -58,6 +58,11 @@ Step 7: Finalize and Export
 
 
 # Output
+![Uploading Sc<img width="1087" height="711" alt="Screenshot 2025-10-21 215335" src="https://github.com/user-attachments/assets/80daf6c1-09ff-4ee5-9d9f-b485cff75cc2" />
+<<img width="960" height="653" alt="Screenshot 2025-10-21 215237" src="https://github.com/user-attachments/assets/300ad70b-712c-49be-8130-2767d7dae585" />
+img width="791" height="545" alt="Screenshot 2025-10-21 215219" src="https://github.com/user-attachments/assets/3c93b6e4-da18-424d-b41d-3e3faf110b32" />
+r<img width="990" height="691" alt="Screenshot 2025-10-21 215209" src="https://github.com/user-attachments/assets/928e8fbc-b9dd-468b-b390-b686102dca33" />
+eenshot 2025-10-21 215154.png…]()
 
 
 # Result
